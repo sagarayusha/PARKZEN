@@ -41,6 +41,4 @@ SmartPark is a comprehensive, real-time parking management solution designed for
 
 ### Mobile App Setup:
 ```bash
-![WhatsApp Image 2026-01-10 at 7 27 03 PM](https://github.com/user-attachments/assets/863a0c81-cbd1-4859-8de5-aa8ec94ef854)
-![WhatsApp Image 2026-01-10 at 7 27 14 PM](https://github.com/user-attachments/assets/7c229f25-08a9-4b2c-8674-50293c47b9eb)
 

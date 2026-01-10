@@ -41,12 +41,6 @@ SmartPark is a comprehensive, real-time parking management solution designed for
 
 ### Mobile App Setup:
 ```bash
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b860fa14-a774-4890-9041-871694f2d5ec" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/859ca98f-a257-4436-bd63-3c98fa6842a4" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/271f2c7f-3d5b-4419-aac8-88915127678a" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6fcb5e98-5a6f-43f0-9c4c-66fcffe130d0" />
+![WhatsApp Image 2026-01-10 at 7 27 03 PM](https://github.com/user-attachments/assets/863a0c81-cbd1-4859-8de5-aa8ec94ef854)
+![WhatsApp Image 2026-01-10 at 7 27 14 PM](https://github.com/user-attachments/assets/7c229f25-08a9-4b2c-8674-50293c47b9eb)
 
-
-# Run the app
-npm run ios  # For iOS
-npm run android  # For Android

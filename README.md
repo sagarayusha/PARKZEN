@@ -51,7 +51,6 @@
 
 ## 🏗️ Technical Architecture
 
-### **3-Tier Architecture:**
 <div align="center">
   <img width="1246" height="575" alt="Dashboard" src="https://github.com/user-attachments/assets/06e147e2-766d-4434-b80e-83abc7e59d5c">
   <img width="1246" height="567" alt="Analytics" src="https://github.com/user-attachments/assets/121e72c6-d025-43ff-9c88-677f4ba097d5">

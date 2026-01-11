@@ -32,7 +32,7 @@ SmartPark is a comprehensive, real-time parking management solution designed for
 3. **Data Persistence Layer**: Firestore Database
 
 ### Key Technologies:
-- **Frontend**: React Native, Expo
+- **Frontend**: React Native, Expo ,typescript, 
 - **Backend**: Firebase (Auth, Firestore, Cloud Functions)
 - **Dashboard**: HTML5, CSS3, JavaScript, Chart.js
 - **Security**: Firebase Auth, Encrypted QR codes

@@ -1,41 +1,78 @@
-# SmartPark - Smart Parking Capacity Enforcement System
+# SmartPark 🚗💡
+**Smart Parking Capacity Enforcement System**
 
-## Overview
-SmartPark is a comprehensive, real-time parking management solution designed for Municipal Corporations like MCD. It provides a tamper-proof technological solution to monitor parking lot capacity, prevent overparking, ensure contractual compliance, reduce traffic congestion, and improve accountability.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+</p>
 
-## Features
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+</p>
 
-### For Citizens:
-- **Real-time Parking Availability**: Live map showing nearby parking spots with availability indicators
-- **QR-based Check-in/Check-out**: Encrypted QR codes for secure vehicle validation
-- **Digital Booking**: Book and reserve parking slots in advance
-- **Live Tracking**: Monitor parking duration and costs in real-time
-- **Digital Receipts**: Paperless transaction records
+## 📌 Overview
+**SmartPark** is a comprehensive, real-time parking management solution designed for **Municipal Corporations like MCD**. It provides a **tamper-proof technological solution** to:
+- ✅ Monitor parking lot capacity
+- ✅ Prevent overparking
+- ✅ Ensure contractual compliance
+- ✅ Reduce traffic congestion
+- ✅ Improve accountability
 
-### For Contractors:
-- **QR Validation Scanner**: Mobile app for scanning and validating user QR codes
-- **Capacity Enforcement**: Automatic blocking of check-ins when capacity is reached
-- **Real-time Updates**: Live sync with central dashboard
-- **Tamper-proof Logging**: All transactions securely recorded
+## 🚀 Features
 
-### For MCD Officials:
-- **Real-time Dashboard**: Monitor all parking lots, occupancy, and revenue
-- **Contractor Performance Tracking**: Analytics on contractor compliance
-- **Revenue Transparency**: 100% transparent revenue tracking
-- **Analytics & Reports**: Historical data analysis and predictive insights
+### 👥 For Citizens
+| Feature | Description | Icon |
+|---------|-------------|------|
+| **Real-time Parking Availability** | Live map showing nearby parking spots with availability indicators | 🗺️ |
+| **QR-based Check-in/Check-out** | Encrypted QR codes for secure vehicle validation | 📲 |
+| **Digital Booking** | Book and reserve parking slots in advance | 📅 |
+| **Live Tracking** | Monitor parking duration and costs in real-time | ⏱️ |
+| **Digital Receipts** | Paperless transaction records | 📄 |
 
-## Technical Architecture
+### 👷 For Contractors
+| Feature | Description | Icon |
+|---------|-------------|------|
+| **QR Validation Scanner** | Mobile app for scanning and validating user QR codes | 📱 |
+| **Capacity Enforcement** | Automatic blocking of check-ins when capacity is reached | 🚫 |
+| **Real-time Updates** | Live sync with central dashboard | 🔄 |
+| **Tamper-proof Logging** | All transactions securely recorded | 🔐 |
 
-### 3-Tier Architecture:
-1. **Mobile Front-end**: React Native cross-platform apps
-2. **Cloud Logic Layer**: Firebase Cloud Functions
-3. **Data Persistence Layer**: Firestore Database
+### 🏛️ For MCD Officials
+| Feature | Description | Icon |
+|---------|-------------|------|
+| **Real-time Dashboard** | Monitor all parking lots, occupancy, and revenue | 📊 |
+| **Contractor Performance Tracking** | Analytics on contractor compliance | 📈 |
+| **Revenue Transparency** | 100% transparent revenue tracking | 💰 |
+| **Analytics & Reports** | Historical data analysis and predictive insights | 📉 |
 
-### Key Technologies:
-- **Frontend**: React Native, Expo ,typescript, 
-- **Backend**: Firebase (Auth, Firestore, Cloud Functions)
-- **Dashboard**: HTML5, CSS3, JavaScript, Chart.js
-- **Security**: Firebase Auth, Encrypted QR codes
+## 🏗️ Technical Architecture
+
+### **3-Tier Architecture:**
+
+
+### 🛠️ **Technology Stack**
+```yaml
+Frontend:
+  - Framework: React Native
+  - Platform: Expo
+  - Language: TypeScript
+  
+Backend:
+  - Platform: Firebase
+  - Services: Auth, Firestore, Cloud Functions
+  
+Dashboard:
+  - Technologies: HTML5, CSS3, JavaScript
+  - Charts: Chart.js
+  
+Security:
+  - Authentication: Firebase Auth
+  - Data Protection: Encrypted QR codes
+
 <img width="1246" height="575" alt="image" src="https://github.com/user-attachments/assets/06e147e2-766d-4434-b80e-83abc7e59d5c" />
 <img width="1246" height="567" alt="image" src="https://github.com/user-attachments/assets/121e72c6-d025-43ff-9c88-677f4ba097d5" />
 <img width="1250" height="562" alt="image" src="https://github.com/user-attachments/assets/6fc33e05-406a-416d-ab4d-c400f1b04154" />

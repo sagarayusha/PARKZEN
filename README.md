@@ -72,9 +72,20 @@ Dashboard:
 Security:
   - Authentication: Firebase Auth
   - Data Protection: Encrypted QR codes
+## 📸 Screenshots
 
-<img width="1246" height="575" alt="image" src="https://github.com/user-attachments/assets/06e147e2-766d-4434-b80e-83abc7e59d5c" />
-<img width="1246" height="567" alt="image" src="https://github.com/user-attachments/assets/121e72c6-d025-43ff-9c88-677f4ba097d5" />
-<img width="1250" height="562" alt="image" src="https://github.com/user-attachments/assets/6fc33e05-406a-416d-ab4d-c400f1b04154" />
-<img width="1246" height="517" alt="image" src="https://github.com/user-attachments/assets/f243e1c3-bb22-419c-a1e9-b38a7da67e47" />
+<div align="center">
+  
+### Dashboard Overview
+<img width="1246" height="575" alt="SmartPark Dashboard" src="https://github.com/user-attachments/assets/06e147e2-766d-4434-b80e-83abc7e59d5c" />
 
+### Real-time Analytics
+<img width="1246" height="567" alt="Analytics Dashboard" src="https://github.com/user-attachments/assets/121e72c6-d025-43ff-9c88-677f4ba097d5" />
+
+### Parking Management
+<img width="1250" height="562" alt="Parking Management Interface" src="https://github.com/user-attachments/assets/6fc33e05-406a-416d-ab4d-c400f1b04154" />
+
+### User Interface
+<img width="1246" height="517" alt="User Mobile Interface" src="https://github.com/user-attachments/assets/f243e1c3-bb22-419c-a1e9-b38a7da67e47" />
+
+</div>

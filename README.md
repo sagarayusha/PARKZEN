@@ -22,7 +22,7 @@
 - ✅ Reduce traffic congestion
 - ✅ Improve accountability
 
-## 🚀 Features
+## 🚀 Features-
 
 ### 👥 For Citizens
 | Feature | Description | Icon |
